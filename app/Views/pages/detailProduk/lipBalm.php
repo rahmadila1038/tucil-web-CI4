@@ -10,6 +10,7 @@
     Berikut ini beberapa di antaranya, seperti dilansir Boldsky.
 </p>
 <h6> 1.Packaging </h6>
+<img src="/assets/lipbalmwardah.jpg" alt=" lip balm wardah">
 <p>Mari kita review mulai dari packaging Wardah Everyday Fruity Sheer Lipbalm. Produk wardah ini berbentuk stick dengan ukuran 4 gram,
  bentuknya mirip seperti Lipstick pada umumnya, tidak terlalu besar jadi sangat travel friendly untuk dibawa kemanapun.
 </p>

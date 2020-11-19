@@ -14,6 +14,7 @@
     Yuk langsung aja kita mulai review nya..
 </p>
 <h6> 1.Packaging </h6>
+<img src="/assets/skinaqua.jpg" alt=" skin aqua">
 <p>Dari segi packaging saya melihat, pada kotak produk ini cukup dijelaskan komposisi dan cara penggunaannya. Cukup lengkap dan tidak
      membuat bingung para pemakai di Indonesia karena ya itu tadi, asalnya produk ini dari negara Jepang.Untuk pruduknya sendiri yaitu 
      Skin Aqua UV Moisture Milk memiliki bentuk yang kecil ya karena berat dari produk ini cuma 40 gram, sangat travel friendly lho Sahabat Beauty. 

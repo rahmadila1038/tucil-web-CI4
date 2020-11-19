@@ -15,6 +15,10 @@ class Home extends BaseController
 	{
 		return view('pages/login');
 	}
+	public function admin()
+	{
+		return view('pages/admin');
+	}
 	public function skinAqua()
 	{
 		return view('pages/detailProduk/skinAqua');
@@ -22,6 +26,10 @@ class Home extends BaseController
 	public function lipBalm()
 	{
 		return view('pages/detailProduk/lipBalm');
+	}
+	public function MWNivea()
+	{
+		return view('pages/detailProduk/MWNivea');
 	}
 
 	public function about()

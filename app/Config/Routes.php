@@ -34,8 +34,10 @@ $routes->get('/pages/index', 'Home::index');
 $routes->get('/login', 'Home::login');
 $routes->get('/register', 'Home::register');
 $routes->get('/pages/about', 'Home::about');
+$routes->get('/pages/admin', 'Home::admin');
 $routes->get('/pages/detailProduk/skinAqua', 'Home::skinAqua');
 $routes->get('/pages/detailProduk/lipBalm', 'Home::lipBalm');
+$routes->get('/pages/detailProduk/MWNivea', 'Home::MWNivea');
 
 
 
