@@ -40,7 +40,7 @@
           <h3 class="mb-0">lip balm wardah </h3>
           <div class="mb-1 text-muted">19 Nov 2020</div>
           <p class="mb-auto">lip balm bagi sebagian orang merupakan kosmetik pertama yang menyentuh bibirnya. Teksturnya ringan memberikan hasil warna yang natural membuatnya menjadi favorit banyak orang.</p>
-          <a href="#" class="stretched-link">Continue reading</a>
+          <a href="/pages/detailProduk/lipBalm" class="stretched-link">Continue reading</a>
         </div>
         <div class="col-auto d-none d-lg-block">
         </div>

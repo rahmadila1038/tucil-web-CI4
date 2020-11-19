@@ -35,6 +35,7 @@ $routes->get('/login', 'Home::login');
 $routes->get('/register', 'Home::register');
 $routes->get('/pages/about', 'Home::about');
 $routes->get('/pages/detailProduk/skinAqua', 'Home::skinAqua');
+$routes->get('/pages/detailProduk/lipBalm', 'Home::lipBalm');
 
 
 
