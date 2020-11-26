@@ -60,6 +60,19 @@
         </div>
       </div>
     </div>
+    <div class="col-md-6">
+      <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <h3 class="mb-0">Maybelline Colossal  </h3>
+          <div class="mb-1 text-muted">19 Nov 2020</div>
+          <p class="mb-auto">Sebagai pemilik mata kecil dengan bulu mata yang tipis dan pendek, maskara dan eyeliner 
+            menjadi 'penyelamat' bagi saya. Yup, tanpa dua produk tersebut, bagian mata saya
+            <a href="/pages/detailProduk/maybelline" class="stretched-link">...Continue reading</a> </p>
+        </div>
+        <div class="col-auto d-none d-lg-block">
+        </div>
+      </div>
+    </div>
   </div>
   </div>
 </div>

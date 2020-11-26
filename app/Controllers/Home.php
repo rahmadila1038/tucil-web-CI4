@@ -31,6 +31,10 @@ class Home extends BaseController
 	{
 		return view('pages/detailProduk/MWNivea');
 	}
+	public function maybelline()
+	{
+		return view('pages/detailProduk/maybelline');
+	}
 
 	public function about()
 	{

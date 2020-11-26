@@ -38,6 +38,8 @@ $routes->get('/pages/admin', 'Home::admin');
 $routes->get('/pages/detailProduk/skinAqua', 'Home::skinAqua');
 $routes->get('/pages/detailProduk/lipBalm', 'Home::lipBalm');
 $routes->get('/pages/detailProduk/MWNivea', 'Home::MWNivea');
+$routes->get('/pages/detailProduk/maybelline', 'Home::maybelline');
+
 
 
 

@@ -11,9 +11,6 @@
       <li class="nav-item">
         <a class="nav-link" href="/pages/about">About</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="/pages/admin">Admin</a>
-      </li>
   
     </ul>
   </div>
